@@ -12,7 +12,8 @@ class TestController {
     fun test(): Map<String, Int> {
         return mapOf(
             "foo" to 1,
-            "bar" to 2
+            "bar" to 2,
+            "lcs" to 3
         )
     }
 }
