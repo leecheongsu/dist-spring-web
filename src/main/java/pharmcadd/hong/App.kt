@@ -13,7 +13,8 @@ class TestController {
         return mapOf(
             "foo" to 1,
             "bar" to 2,
-            "lcs" to 3
+            "lcs" to 3,
+            "abc" to 4
         )
     }
 }
