@@ -14,7 +14,8 @@ class TestController {
             "foo" to 1,
             "bar" to 2,
             "lcs" to 3,
-            "abc" to 4
+            "abc" to 4,
+            "noname" to 5
         )
     }
 }
